@@ -37,7 +37,11 @@ module.exports = {
         global: {
             branches: 95,
             functions: 98,
+<<<<<<< HEAD
             lines: 98,
+=======
+            lines: 99,
+>>>>>>> fix test
             statements: 98
         }
     },
